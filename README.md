@@ -28,7 +28,7 @@ This project is a Django REST Framework-based API for managing flights and passe
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/BenjaminMbuthi/Group-7-AilineBookingSystem.git
+git clone https://github.com/BenjaminMbuthi/Group-7-AirlineBookingSystem.git
 ```
 
 ### Step 2: Set Up the Virtual Environment

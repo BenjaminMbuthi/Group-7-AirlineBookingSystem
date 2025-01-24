@@ -19,7 +19,7 @@ This project is a Django REST Framework-based API for managing flights and passe
 
 1. **Python 3.8+** installed.
 2. **pip**, Python's package manager.
-3. A virtual environment tool like `venv` (recommended).
+3. A virtual environment tool like.
 
 ---
 
